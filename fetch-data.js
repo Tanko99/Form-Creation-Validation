@@ -27,4 +27,4 @@ async function fetchUserData(){
         }
     
 }
-document.addEventListener('DOMContentLoade', fetchUserData);
+document.addEventListener('DOMContentLoaded', fetchUserData);
